@@ -1,0 +1,23 @@
+{
+  "name": "startingelectron",
+  "version": "1.0.0",
+  "description": "My firt electron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fukubi/StartingElectron.git"
+  },
+  "author": "NONAME",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fukubi/StartingElectron/issues"
+  },
+  "homepage": "https://github.com/Fukubi/StartingElectron#readme",
+  "devDependencies": {
+    "electron": "^9.1.1"
+  }
+}
